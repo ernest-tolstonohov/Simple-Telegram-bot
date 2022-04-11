@@ -1,4 +1,4 @@
-#[Simple-Telegram-bot](https://github.com/P1eko/Simple-Telegram-bot)
+# [Simple-Telegram-bot](https://github.com/P1eko/Simple-Telegram-bot)
 
 A simple telegram bot to provide information to users.
 
