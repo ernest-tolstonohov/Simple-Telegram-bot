@@ -11,5 +11,7 @@ This bot was created for students, so his language is Ukrainian or Russian.
 Also in this bot there is a python-telegram-bot-pagination library. This library works well for telegram, it is very convenient to issue messages to users
 
 For the bot to work you need:
+
 pip install pyTelegramBotAPI
+
 pip install python-telegram-bot-pagination
